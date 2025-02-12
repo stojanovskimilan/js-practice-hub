@@ -11,6 +11,8 @@ const person = {
 };
 
 let name = person.fullName();
+// this will return function definition
+// name = person.fullName;
 let age = person['age'];
 // let age = person.age;
 
